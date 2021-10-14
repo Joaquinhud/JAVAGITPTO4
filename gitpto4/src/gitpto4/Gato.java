@@ -96,6 +96,4 @@ public class Gato {
     public String toString() {
         return "Gato{" + "id=" + id + ", nombre=" + nombre + ", color=" + color + ", peso=" + peso + ", altura=" + altura + ", due\u00f1o=" + dueño + ", raza=" + raza + ", edad=" + edad + '}';
     }
-    
-    
 }
